@@ -1,0 +1,19 @@
+.divclass{
+    border: 2px solid transparent;
+    height: 20px;
+    width: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.frame {
+    border: 5px solid #000; /* Siyah çerçeve */
+    padding: 10px;
+    margin: 20px;
+    width: 640px; /* Videonun genişliği ile aynı */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Hafif gölge efekti */
+}
+
+.video {
+    width: 100%;
+    height: auto;
+}

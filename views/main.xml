@@ -1,0 +1,6 @@
+<View>
+    <h1>Item List</h1>
+    <ul id="item-list"></ul>
+    <input type="text" id="item-input" placeholder="Add a new item">
+    <button id="add-item-button">Add Item</button>
+</View>
